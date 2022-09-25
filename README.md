@@ -12,7 +12,7 @@ Tugas Kelompok Team 4 :
 * Setelah di enter akan menampilkan deret bilangan genap, bilangan ganjil dan bilangan fibonacci
 * ada 2 pilihan untuk user saat memilih Y program akan mengulang jila memilih T program akan berhenti
 
-
+# Hasil Testing
 
 Masukan Nama Anda [1..25] : Renita
 Masukan NIM Anda [harus 10 karakter] : 2502165031
