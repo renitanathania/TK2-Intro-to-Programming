@@ -10,7 +10,7 @@ Tugas Kelompok Team 4 :
 * User menginput NIM yang harus 10 karakter angka
 * User menginput jumlah angka 5-20 
 * Setelah di enter akan menampilkan deret bilangan genap, bilangan ganjil dan bilangan fibonacci
-* ada 2 pilihan untuk user saat memilih Y program akan mengulang jila memilih T program akan berhenti
+* ada 2 pilihan untuk user saat memilih Y program akan mengulang jika memilih T program akan berhenti
 
 # Hasil Testing
 
